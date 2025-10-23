@@ -334,4 +334,4 @@ BOT_VERSION=1.0.0
 2. **Restart bot** untuk memuat konfigurasi baru
 3. **Test command** untuk memastikan semuanya berfungsi
 
-Sekarang semua nomor HP sudah aman dan hanya tersimpan di file `.env`! 🔒
+Sekarang semua nomor HP sudah aman dan hanya tersimpan di file `.env`! 🔒# wabot-termux
